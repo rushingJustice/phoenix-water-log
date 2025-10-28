@@ -11,6 +11,7 @@
   let map: Map;
   let alertOpen = false;
   let alertMessage = '';
+  let alertTitle = '';
   let isLocating = false;
   let showPOIs = true;
   let selectedPOIData: any = null;
@@ -102,6 +103,20 @@
     showPOIScreen = false;
     selectedPOI.set(null);
   }
+
+  function handleShowMethodology() {
+    alertTitle = 'About This Project';
+    alertMessage = `
+      <ul class="list-disc pl-5 space-y-2 text-left">
+        <li>Uses digital elevation models to simulate natural water flow patterns</li>
+        <li>Shows where water accumulates based on topography</li>
+        <li>Displays 22 historical flood events from NOAA (2010-2021)</li>
+        <li>Helps identify flood-prone areas in Phoenix metro</li>
+        <li>Based on hydrological flow analysis of terrain data</li>
+      </ul>
+    `;
+    alertOpen = true;
+  }
 </script>
 
 <main>
@@ -112,6 +127,7 @@
     on:opacityChange={e => updateOpacity(e.detail)}
     on:locate={handleLocate}
     on:togglePOIs={handleTogglePOIs}
+    on:showMethodology={handleShowMethodology}
     {isLocating}
     {showPOIs}
   />
@@ -120,7 +136,7 @@
     visible={showPOIScreen}
     on:close={handleClosePOI}
   />
-  <AlertDialog bind:open={alertOpen} message={alertMessage} />
+  <AlertDialog bind:open={alertOpen} message={alertMessage} title={alertTitle} />
 </main>
 
 <style lang="postcss">

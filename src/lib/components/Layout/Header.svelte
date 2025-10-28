@@ -20,7 +20,7 @@
       <p
         class="md:text-sm md:w-full w-[90%] text-xs md:text-center font-semibold"
       >
-        Mapping where water drains and flows
+        Mapping where water wants to go based on topography
       </p>
     </div>
     <div class="w-full max-w-[300px] flex justify-end">

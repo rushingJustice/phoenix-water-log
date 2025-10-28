@@ -57,3 +57,4 @@ data/dem/*.cpg
 # Temporary files
 *.tmp
 .cache/
+.vercel

@@ -20,9 +20,13 @@
     showPOIs = !showPOIs;
     dispatch('togglePOIs', showPOIs);
   }
+
+  function handleShowMethodology() {
+    dispatch('showMethodology');
+  }
 </script>
 
-<Header on:showMethodology />
+<Header on:showMethodology={handleShowMethodology} />
 
 <div
   class="fixed w-full md:w-fit bottom-0 left-0 md:left-1/2 transform md:-translate-x-1/2 z-50"
