@@ -2,6 +2,8 @@
 
 An interactive map visualizing water accumulation and drainage patterns across the Phoenix, AZ metropolitan area. Based on digital elevation models and hydrological analysis.
 
+![Phoenix Water Log Screenshot](screenshots/phoenix-water-map.png)
+
 ## Overview
 
 This project analyzes elevation data to show where water naturally flows and accumulates during rainfall events in Phoenix. The visualization helps understand flood-prone areas and drainage patterns in the desert urban environment.
