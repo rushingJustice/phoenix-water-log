@@ -1,0 +1,4 @@
+shapely
+whitebox
+setuptools
+gdal

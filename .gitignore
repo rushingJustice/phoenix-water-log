@@ -1,0 +1,59 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build outputs
+.svelte-kit/
+build/
+dist/
+.output/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Data processing artifacts (keep raw data, exclude processed)
+data/dem/*.tif
+data/dem/*.vrt
+data/dem/tiles/
+data/dem/tiles_old/
+data/dem/*.geojson
+data/dem/*.pmtiles
+data/dem/*.shp
+data/dem/*.shx
+data/dem/*.dbf
+data/dem/*.prj
+data/dem/*.cpg
+
+# Keep final output in static/
+# static/tiles.pmtiles will be included
+
+# Temporary files
+*.tmp
+.cache/

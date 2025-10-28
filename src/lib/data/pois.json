@@ -1,0 +1,687 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.11,
+          33.42
+        ]
+      },
+      "properties": {
+        "name": "Flood - GOMEZ ARPT",
+        "neighbourhood": "GOMEZ ARPT",
+        "date": "01/21/2010",
+        "url": "https://www.google.com/search?q=Flood+GOMEZ+ARPT+Phoenix+01/21/2010",
+        "source": "NOAA Storm Events Database",
+        "event_type": "Flood",
+        "narrative": "APS power lines were down from flood waters in the Salt River.",
+        "episode_narrative": "Widespread rain, heavy at times, resulted in numerous flooded streets, and low spots. Strong winds associated with a line of thunderstorms caused considerable damage to property and some minor injuries. Phoenix established a new all-time record low pressure of 29.20 inches on the 21st.",
+        "begin_location": "GOMEZ ARPT",
+        "end_location": "GOMEZ ARPT",
+        "begin_time": "1810",
+        "end_time": "1845",
+        "deaths_direct": "0",
+        "deaths_indirect": "0",
+        "injuries_direct": "0",
+        "injuries_indirect": "0",
+        "damage_property": "10000",
+        "damage_crops": "0",
+        "event_id": "209755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.24,
+          33.38
+        ]
+      },
+      "properties": {
+        "name": "Flood - LAVEEN",
+        "neighbourhood": "LAVEEN",
+        "date": "01/21/2010",
+        "url": "https://www.google.com/search?q=Flood+LAVEEN+Phoenix+01/21/2010",
+        "source": "NOAA Storm Events Database",
+        "event_type": "Flood",
+        "narrative": "Streets were closed near the Salt River as well as many creeks and washes after the third major storm system moved through the area. Rainfall prior to and during the day on Friday amounted to between 5 and 7 inches. The swollen creeks and washes left many low-lying areas flooded for days, with damaged homes and businesses.",
+        "episode_narrative": "Streets and highways were closed, homes and businesses were flooded after the third storm system of the week moved across the deserts and into the foothills. Some locations reported flooding during the day of January 21, while the major flooding in Wenden struck in the early morning hours of Friday, January 22.",
+        "begin_location": "LAVEEN",
+        "end_location": "GOLDEN HILLS",
+        "begin_time": "1845",
+        "end_time": "1930",
+        "deaths_direct": "0",
+        "deaths_indirect": "0",
+        "injuries_direct": "0",
+        "injuries_indirect": "0",
+        "damage_property": "2000000",
+        "damage_crops": "0",
+        "event_id": "208527"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9035,
+          33.5056
+        ]
+      },
+      "properties": {
+        "name": "Flood - SCOTTSDALE",
+        "neighbourhood": "SCOTTSDALE",
+        "date": "03/08/2013",
+        "url": "https://www.google.com/search?q=Flood+SCOTTSDALE+Phoenix+03/08/2013",
+        "source": "NOAA Storm Events Database",
+        "event_type": "Flood",
+        "narrative": "Scattered thunderstorms associated with a powerful winter storm dropped locally heavy rainfall across portions of the greater Phoenix metropolitan area, including the community of Scottsdale, during the afternoon hours on March 8th. An Urban and Small Stream Flood Advisory was issued at 120 pm for south central Arizona, including Fountain Hills and Scottdale, and it continued through 315 pm. Radar indicated that rain in excess of 1 inch fell during this period, with additional rain occurring late into the day. The rain led to the flooding of washes in Scottsdale. According to a Fox 10 article, Scottsdale police identified the body of a woman found in a rain swollen wash in Scottsdale on Saturday afternoon on March 9th. The woman, 38 years old, was found in the wash just north of Chaparral Road, off Hayden Road. She lived in a group home about 1 imile away from the wash and she was reported missing Friday as the weather worsened. A man who was in the area Saturday afternoon spotted the woman floating in the water, and called 911. Police then arrived at the wash at about 430 pm Saturday.",
+        "episode_narrative": "A powerful winter storm moved east across the central Arizona deserts on the 8th of March, and the associated cold front passed over the area during the afternoon hours bringing gusty winds in excess of 50 mph, locally heavy rain and small to moderate hail. The cold front generated scattered thunderstorms, which produced locally damaging winds in the greater Phoenix area, and locally heavy thunderstorm rains caused some flooding of streets and washes. Flooding of washes occurred in the community of Scottsdale, and one woman was found dead in one of the flooded washes.",
+        "begin_location": "SCOTTSDALE",
+        "end_location": "SCOTTSDALE",
+        "begin_time": "1320",
+        "end_time": "1700",
+        "deaths_direct": "1",
+        "deaths_indirect": "0",
+        "injuries_direct": "0",
+        "injuries_indirect": "0",
+        "damage_property": "0",
+        "damage_crops": "0",
+        "event_id": "438250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0022,
+          33.2898
+        ]
+      },
+      "properties": {
+        "name": "Flood - WEST CHANDLER",
+        "neighbourhood": "WEST CHANDLER",
+        "date": "08/12/2014",
+        "url": "https://www.google.com/search?q=Flood+WEST+CHANDLER+Phoenix+08/12/2014",
+        "source": "NOAA Storm Events Database",
+        "event_type": "Flood",
+        "narrative": "Scattered to numerous thunderstorms produced locally heavy rain across the south central portions of the greater Phoenix metropolitan area during the afternoon and evening hours on August 12th. Peak rainfall rates were well in excess of one inch per hour at times, and storm total rainfall amounts exceeded 3 inches. Some of the hardest hit communities included Laveen, Ahwatukee and South Phoenix. At 1930MST, a trained weather spotter 3 miles northwest of South Mountain Park measured an afternoon storm total rainfall of 3.2 inches. According to the Maricopa County Sheriff's office, heavy rain led to flash flooding and subsequently areal flooding. Numerous roads were flooded and closed, including the intersections of 27th Avenue and Cheyenne Drive, and 45th Avenue and Ivanhoe Street. Many homes in the area, especially those along Dobbins Road between 19th Avenue and 51st Avenue, suffered significant flood damage, as water 1-3 feet filled up their residences. The flooding also produced significant damage to the SRP water system according to SRP spokesman Jeff Lane. The flooding prompted the issuance of an Areal Flood Warning which remained in effect through the early morning hours on August 13th. No injuries were reported due to the flooding.",
+        "episode_narrative": "Thunderstorms continued to develop across south central Arizona during the afternoon hours on August 12th, and they persisted well into the evening. Many of the storms affected the greater Phoenix metropolitan area. Due to excessively moist atmospheric conditions, a Flash Flood Watch was in effect from noon August 12th through 5 am on Wednesday August 13th. Many of the thunderstorms produced locally heavy rain with rainfall rates in excess of 2 inches per hour at times. The heavy rain led to urban flooding, flash flooding, and eventually areal flooding which affected much of the greater Phoenix area, especially the southeast and south central portions.",
+        "begin_location": "WEST CHANDLER",
+        "end_location": "GUADALUPE",
+        "begin_time": "1945",
+        "end_time": "430",
+        "deaths_direct": "0",
+        "deaths_indirect": "0",
+        "injuries_direct": "0",
+        "injuries_indirect": "0",
+        "damage_property": "2000000",
+        "damage_crops": "0",
+        "event_id": "530946"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.133,
+          33.4658
+        ]
+      },
+      "properties": {
+        "name": "Flood - PHOENIX FARM AERO AR",
+        "neighbourhood": "PHOENIX FARM AERO AR",
+        "date": "08/02/2016",
+        "url": "https://www.google.com/search?q=Flood+PHOENIX+FARM+AERO+AR+Phoenix+08/02/2016",
+        "source": "NOAA Storm Events Database",
+        "event_type": "Flood",
+        "narrative": "Thunderstorms with very heavy rainfall moved across the greater Phoenix metropolitan area during the evening hours on August 2nd and they especially impacted the Interstate 17 corridor north of central Phoenix. Intense rain was observed with peak rain rates in excess of 4 inches per hour at times; this initially led to flash flooding which was followed by areal flooding. A mesonet rain gage 5 miles north of central Phoenix, near the intersection of Interstate 17 and West Camelback road, measured 2.91 inches of rain ending at about 1900MST. This led to flash flooding and water rescues at the Indian School underpass and Interstate 17. The heavy rains then resulted in continued areal flooding along the Interstate 17 corridor and an Areal Flood Warning was issued at 2015MST which remained in effect through 2315MST. Local law enforcement reported the continued flooding along Interstate 17 at Indian School Road and this was the basis for the Areal Flood Warning.",
+        "episode_narrative": "Scattered to numerous showers and thunderstorms overspread much of south central Arizona during the afternoon and evening hours on August 2nd. Due to very moist and unstable conditions, the stronger thunderstorms that formed produced a variety of significant and severe weather, including damaging winds, large hail, very heavy rain, flooding and flash flooding. Public reports along with mesonet station readings indicated rainfall totals between three and four inches; the heavy rain led to road closures, flooding of underpasses and necessitated swift water rescues near the community of Cave Creek. Multiple Urban and Small Stream Advisories as well as Flood and Flash Flood Warnings were issued during the afternoon and evening hours. During the late afternoon, gusty thunderstorm outflow winds downed several power poles near Fountain Hills, and large hail was reported in central Phoenix.",
+        "begin_location": "PHOENIX FARM AERO AR",
+        "end_location": "GLENDALE",
+        "begin_time": "2015",
+        "end_time": "2315",
+        "deaths_direct": "0",
+        "deaths_indirect": "0",
+        "injuries_direct": "0",
+        "injuries_indirect": "0",
+        "damage_property": "0",
+        "damage_crops": "0",
+        "event_id": "646619"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1346,
+          33.5972
+        ]
+      },
+      "properties": {
+        "name": "Flood - SUNNYSLOPE",
+        "neighbourhood": "SUNNYSLOPE",
+        "date": "10/02/2018",
+        "url": "https://www.google.com/search?q=Flood+SUNNYSLOPE+Phoenix+10/02/2018",
+        "source": "NOAA Storm Events Database",
+        "event_type": "Flood",
+        "narrative": "Copious amounts of tropical moisture spread north and into the greater Phoenix area during the morning hours on October 2nd; the moisture was associated with former hurricane Rosa. The moisture resulted in the development of widespread moderate to heavy showers which persisted into the afternoon hours, and affected the central portion of the Phoenix area including the community of Glendale. Heavy rains led to episodes of flash flooding and flooding, causing many road closures and resulting in some street damage. According to a report from a local newspaper, at 1435MST a sink hole developed at the intersection of 35th Avenue and Cactus Roads, about 5 miles northeast of Glendale. The sinkhole was caused by flash flooding that occurred earlier in the day and resulted in the intersection becoming closed. A Flood Warning had been issued earlier in the morning for the area, but the warning expired shortly before the sinkhole was reported by the paper.",
+        "episode_narrative": "Copious amounts of tropical moisture spread north and into the south-central deserts during the morning hours on October 2nd; the moisture was associated with the remnants of former hurricane Rosa. The deep moisture led to widespread moderate to heavy showers which impacted the entire greater Phoenix metropolitan area during the entire day. Many locations picked up from 1 to 3 inches of rain mainly during the morning hours, and the intense rain resulted in numerous episodes of flash flooding which affected communities such as Guadalupe, Glendale, Scottsdale, Fountain Hills, Deer Valley, Sun City and downtown Phoenix. Much of the flash flooding involved road closures, but there were reports of swift water rescues as well. A sink hole was reported  in the early afternoon at the intersection of 35th Avenue and Cactus Road northeast of Glendale, and local broadcast media reported that the Desert Horizon Elementary School was closed due to severe flooding at about 0800MST. The school is located near 83rd Avenue and Indian School Road. Multiple Flash Flood Warnings were issued during the day and fortunately few if any accidents or injuries were reported across the Phoenix area.",
+        "begin_location": "SUNNYSLOPE",
+        "end_location": "SUNNYSLOPE",
+        "begin_time": "1015",
+        "end_time": "1700",
+        "deaths_direct": "0",
+        "deaths_indirect": "0",
+        "injuries_direct": "0",
+        "injuries_indirect": "0",
+        "damage_property": "20000",
+        "damage_crops": "0",
+        "event_id": "781152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3083,
+          33.4249
+        ]
+      },
+      "properties": {
+        "name": "Flood - CASHION",
+        "neighbourhood": "CASHION",
+        "date": "10/02/2018",
+        "url": "https://www.google.com/search?q=Flood+CASHION+Phoenix+10/02/2018",
+        "source": "NOAA Storm Events Database",
+        "event_type": "Flood",
+        "narrative": "Copious amounts of tropical moisture spread north into the greater Phoenix area during the morning hours on October 2nd; the moisture was associated with former hurricane Rosa. The moisture led to the development of widespread moderate to heavy showers which resulted in flash flooding during the morning hours across much of the western Phoenix area, including communities such as Avondale and Goodyear. By late morning flash flooding gave way to areal flooding and many roads became closed due to the flooding. According to a local emergency manager, at 1315MST Lower Buckeye Road was closed at the Agua Fria River due to flooding. This was about 1 mile east of Avondale. An Areal Flood Warning had been in effect for the area earlier and it expired at 1315MST. The flooding persisted into the afternoon; fortunately no accidents were reported.",
+        "episode_narrative": "Copious amounts of tropical moisture spread north and into the south-central deserts during the morning hours on October 2nd; the moisture was associated with the remnants of former hurricane Rosa. The deep moisture led to widespread moderate to heavy showers which impacted the entire greater Phoenix metropolitan area during the entire day. Many locations picked up from 1 to 3 inches of rain mainly during the morning hours, and the intense rain resulted in numerous episodes of flash flooding which affected communities such as Guadalupe, Glendale, Scottsdale, Fountain Hills, Deer Valley, Sun City and downtown Phoenix. Much of the flash flooding involved road closures, but there were reports of swift water rescues as well. A sink hole was reported  in the early afternoon at the intersection of 35th Avenue and Cactus Road northeast of Glendale, and local broadcast media reported that the Desert Horizon Elementary School was closed due to severe flooding at about 0800MST. The school is located near 83rd Avenue and Indian School Road. Multiple Flash Flood Warnings were issued during the day and fortunately few if any accidents or injuries were reported across the Phoenix area.",
+        "begin_location": "CASHION",
+        "end_location": "GOODYEAR",
+        "begin_time": "1015",
+        "end_time": "1500",
+        "deaths_direct": "0",
+        "deaths_indirect": "0",
+        "injuries_direct": "0",
+        "injuries_indirect": "0",
+        "damage_property": "2000",
+        "damage_crops": "0",
+        "event_id": "781155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8659,
+          33.2511
+        ]
+      },
+      "properties": {
+        "name": "Flood - OCOTILLO",
+        "neighbourhood": "OCOTILLO",
+        "date": "06/24/2022",
+        "url": "https://www.google.com/search?q=Flood+OCOTILLO+Phoenix+06/24/2022",
+        "source": "NOAA Storm Events Database",
+        "event_type": "Flood",
+        "narrative": "Flooding reported along S Alma School Road between Sun Lakes and Chandler. Water was 2.5-3 inches deep. No damages or injuries were reported.",
+        "episode_narrative": "Outflow boundaries originating from distant thunderstorms converged on the valley floor during the evening hours. This combined with a pocket of upper-level divergence as analyzed by the SPC mesoanalysis resulted in the development of a strong thunderstorm over Chandler. Other weaker thunderstorms developed across the valley as well from the resulting outflow boundaries. A strong thunderstorm that developed near Morristown caused downed powerlines, resulting in the closure of US-60. No injuries were reported.",
+        "begin_location": "OCOTILLO",
+        "end_location": "OCOTILLO",
+        "begin_time": "2245",
+        "end_time": "230",
+        "deaths_direct": "0",
+        "deaths_indirect": "0",
+        "injuries_direct": "0",
+        "injuries_indirect": "0",
+        "damage_property": "0",
+        "damage_crops": "0",
+        "event_id": "1026450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2056,
+          33.4072
+        ]
+      },
+      "properties": {
+        "name": "Flood - GOMEZ ARPT",
+        "neighbourhood": "GOMEZ ARPT",
+        "date": "03/04/2023",
+        "url": "https://www.google.com/search?q=Flood+GOMEZ+ARPT+Phoenix+03/04/2023",
+        "source": "NOAA Storm Events Database",
+        "event_type": "Flood",
+        "narrative": "According to MCDOT, the unbridged Salt River crossing along 67th Avenue between Broadway Road and Southern Avenue was closed due to flooding beginning on the 12th and continued into April. Timing based on water releases from Granite Reef Dam.",
+        "episode_narrative": "Anomalous snowfall across the high terrain of Arizona as well as lower elevation rainfall led to greater than normal runoff into the Salt and Verde watersheds. As a result of this, dam releases were conducted at multiple locations in these watersheds, leading to heightened flows in these rivers. Upstream releases led to additional releases from Granite Reef Dam, which initially began to cause impacts on the 4th when releases from the dam increased above 1,000 cfs. Granite Reef Dam releases continued to increase going through the month of March and at one point during the month was releasing nearly 40,000 cfs. Releases from this dam led to downstream flow in the normally dry Salt River, which runs through the Phoenix metro. The anomalous runoff into the Salt and Verde watersheds and the resultant dam releases led to numerous impacts along the Salt, Verde, and Gila Rivers, including multiple unbridged river crossings being flooded, multiple water rescues, and one recreational fatality. Flow in the Salt River continued downstream into the Gila River, causing more impacts along the way down to Painted Rock Dam. Releases continued through the remainder of the month and into April, resulting in prolonged impacts.",
+        "begin_location": "GOMEZ ARPT",
+        "end_location": "LAVEEN",
+        "begin_time": "400",
+        "end_time": "2359",
+        "deaths_direct": "0",
+        "deaths_indirect": "0",
+        "injuries_direct": "0",
+        "injuries_indirect": "0",
+        "damage_property": "0",
+        "damage_crops": "0",
+        "event_id": "1088530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3248,
+          33.3848
+        ]
+      },
+      "properties": {
+        "name": "Flood - AVONDALE",
+        "neighbourhood": "AVONDALE",
+        "date": "03/04/2023",
+        "url": "https://www.google.com/search?q=Flood+AVONDALE+Phoenix+03/04/2023",
+        "source": "NOAA Storm Events Database",
+        "event_type": "Flood",
+        "narrative": "According to MCDOT, the unbridged Gila River crossing along El Mirage Road between Southern Avenue and Indian Springs Road was closed due to flooding beginning on the 14th and continued into April. Timing based on water releases from Granite Reef Dam.",
+        "episode_narrative": "Anomalous snowfall across the high terrain of Arizona as well as lower elevation rainfall led to greater than normal runoff into the Salt and Verde watersheds. As a result of this, dam releases were conducted at multiple locations in these watersheds, leading to heightened flows in these rivers. Upstream releases led to additional releases from Granite Reef Dam, which initially began to cause impacts on the 4th when releases from the dam increased above 1,000 cfs. Granite Reef Dam releases continued to increase going through the month of March and at one point during the month was releasing nearly 40,000 cfs. Releases from this dam led to downstream flow in the normally dry Salt River, which runs through the Phoenix metro. The anomalous runoff into the Salt and Verde watersheds and the resultant dam releases led to numerous impacts along the Salt, Verde, and Gila Rivers, including multiple unbridged river crossings being flooded, multiple water rescues, and one recreational fatality. Flow in the Salt River continued downstream into the Gila River, causing more impacts along the way down to Painted Rock Dam. Releases continued through the remainder of the month and into April, resulting in prolonged impacts.",
+        "begin_location": "AVONDALE",
+        "end_location": "AVONDALE",
+        "begin_time": "400",
+        "end_time": "2359",
+        "deaths_direct": "0",
+        "deaths_indirect": "0",
+        "injuries_direct": "0",
+        "injuries_indirect": "0",
+        "damage_property": "0",
+        "damage_crops": "0",
+        "event_id": "1088544"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3236,
+          33.3758
+        ]
+      },
+      "properties": {
+        "name": "Flood - AVONDALE",
+        "neighbourhood": "AVONDALE",
+        "date": "03/04/2023",
+        "url": "https://www.google.com/search?q=Flood+AVONDALE+Phoenix+03/04/2023",
+        "source": "NOAA Storm Events Database",
+        "event_type": "Flood",
+        "narrative": "A man was swept away after attempting to walk through the flooded unbridged El Mirage Road crossing that goes through the normally dry Gila River between Southern Avenue and Indian Springs Road. The man was walking through the water while carrying his bicycle when he was swept away on the 17th. The man was successfully rescued with no injuries reported. Event timing is based on Granite Reef Dam releases.",
+        "episode_narrative": "Anomalous snowfall across the high terrain of Arizona as well as lower elevation rainfall led to greater than normal runoff into the Salt and Verde watersheds. As a result of this, dam releases were conducted at multiple locations in these watersheds, leading to heightened flows in these rivers. Upstream releases led to additional releases from Granite Reef Dam, which initially began to cause impacts on the 4th when releases from the dam increased above 1,000 cfs. Granite Reef Dam releases continued to increase going through the month of March and at one point during the month was releasing nearly 40,000 cfs. Releases from this dam led to downstream flow in the normally dry Salt River, which runs through the Phoenix metro. The anomalous runoff into the Salt and Verde watersheds and the resultant dam releases led to numerous impacts along the Salt, Verde, and Gila Rivers, including multiple unbridged river crossings being flooded, multiple water rescues, and one recreational fatality. Flow in the Salt River continued downstream into the Gila River, causing more impacts along the way down to Painted Rock Dam. Releases continued through the remainder of the month and into April, resulting in prolonged impacts.",
+        "begin_location": "AVONDALE",
+        "end_location": "AVONDALE",
+        "begin_time": "400",
+        "end_time": "2359",
+        "deaths_direct": "0",
+        "deaths_indirect": "0",
+        "injuries_direct": "0",
+        "injuries_indirect": "0",
+        "damage_property": "0",
+        "damage_crops": "0",
+        "event_id": "1090095"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3236,
+          33.3758
+        ]
+      },
+      "properties": {
+        "name": "Flood - AVONDALE",
+        "neighbourhood": "AVONDALE",
+        "date": "03/04/2023",
+        "url": "https://www.google.com/search?q=Flood+AVONDALE+Phoenix+03/04/2023",
+        "source": "NOAA Storm Events Database",
+        "event_type": "Flood",
+        "narrative": "Two people were rescued after driving around road closure barricades and attempting to drive through a flooded roadway with a recreational vehicle. While attempting to cross the flooded roadway, the recreational vehicle was swept off the road. The incident occurred around 2100 MST on the 30th at the unbridged El Mirage Road crossing that goes through the normally dry Gila River between Southern Avenue and Indian Springs Road. The two people were safely rescued by the fire department via helicopter. No injuries were reported. Event timing is based on Granite Reef Dam releases.",
+        "episode_narrative": "Anomalous snowfall across the high terrain of Arizona as well as lower elevation rainfall led to greater than normal runoff into the Salt and Verde watersheds. As a result of this, dam releases were conducted at multiple locations in these watersheds, leading to heightened flows in these rivers. Upstream releases led to additional releases from Granite Reef Dam, which initially began to cause impacts on the 4th when releases from the dam increased above 1,000 cfs. Granite Reef Dam releases continued to increase going through the month of March and at one point during the month was releasing nearly 40,000 cfs. Releases from this dam led to downstream flow in the normally dry Salt River, which runs through the Phoenix metro. The anomalous runoff into the Salt and Verde watersheds and the resultant dam releases led to numerous impacts along the Salt, Verde, and Gila Rivers, including multiple unbridged river crossings being flooded, multiple water rescues, and one recreational fatality. Flow in the Salt River continued downstream into the Gila River, causing more impacts along the way down to Painted Rock Dam. Releases continued through the remainder of the month and into April, resulting in prolonged impacts.",
+        "begin_location": "AVONDALE",
+        "end_location": "AVONDALE",
+        "begin_time": "400",
+        "end_time": "2359",
+        "deaths_direct": "0",
+        "deaths_indirect": "0",
+        "injuries_direct": "0",
+        "injuries_indirect": "0",
+        "damage_property": "0",
+        "damage_crops": "0",
+        "event_id": "1090522"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8568,
+          33.4553
+        ]
+      },
+      "properties": {
+        "name": "Flood - SCOTTSDALE",
+        "neighbourhood": "SCOTTSDALE",
+        "date": "03/04/2023",
+        "url": "https://www.google.com/search?q=Flood+SCOTTSDALE+Phoenix+03/04/2023",
+        "source": "NOAA Storm Events Database",
+        "event_type": "Flood",
+        "narrative": "According to the Maricopa County DOT, McKellips Road between Alma School Road and SR 202 was closed due to flooding from the Salt River beginning on the 7th and continued into April. Timing based on water releases from Granite Reef Dam.",
+        "episode_narrative": "Anomalous snowfall across the high terrain of Arizona as well as lower elevation rainfall led to greater than normal runoff into the Salt and Verde watersheds. As a result of this, dam releases were conducted at multiple locations in these watersheds, leading to heightened flows in these rivers. Upstream releases led to additional releases from Granite Reef Dam, which initially began to cause impacts on the 4th when releases from the dam increased above 1,000 cfs. Granite Reef Dam releases continued to increase going through the month of March and at one point during the month was releasing nearly 40,000 cfs. Releases from this dam led to downstream flow in the normally dry Salt River, which runs through the Phoenix metro. The anomalous runoff into the Salt and Verde watersheds and the resultant dam releases led to numerous impacts along the Salt, Verde, and Gila Rivers, including multiple unbridged river crossings being flooded, multiple water rescues, and one recreational fatality. Flow in the Salt River continued downstream into the Gila River, causing more impacts along the way down to Painted Rock Dam. Releases continued through the remainder of the month and into April, resulting in prolonged impacts.",
+        "begin_location": "SCOTTSDALE",
+        "end_location": "MESA",
+        "begin_time": "400",
+        "end_time": "2359",
+        "deaths_direct": "0",
+        "deaths_indirect": "0",
+        "injuries_direct": "0",
+        "injuries_indirect": "0",
+        "damage_property": "0",
+        "damage_crops": "0",
+        "event_id": "1088517"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.25,
+          33.38
+        ]
+      },
+      "properties": {
+        "name": "Flood - CASHION",
+        "neighbourhood": "CASHION",
+        "date": "03/04/2023",
+        "url": "https://www.google.com/search?q=Flood+CASHION+Phoenix+03/04/2023",
+        "source": "NOAA Storm Events Database",
+        "event_type": "Flood",
+        "narrative": "Two people became stranded on top of their vehicle in the Salt River along 91st Avenue near Baseline Road after attempting to cross through the flooded roadway. The initial call for help occurred on the 17th around 1845 MST. They were safely rescued by the fire department via helicopter. No injuries were reported. Event timing is based on releases from Granite Reef Dam.",
+        "episode_narrative": "Anomalous snowfall across the high terrain of Arizona as well as lower elevation rainfall led to greater than normal runoff into the Salt and Verde watersheds. As a result of this, dam releases were conducted at multiple locations in these watersheds, leading to heightened flows in these rivers. Upstream releases led to additional releases from Granite Reef Dam, which initially began to cause impacts on the 4th when releases from the dam increased above 1,000 cfs. Granite Reef Dam releases continued to increase going through the month of March and at one point during the month was releasing nearly 40,000 cfs. Releases from this dam led to downstream flow in the normally dry Salt River, which runs through the Phoenix metro. The anomalous runoff into the Salt and Verde watersheds and the resultant dam releases led to numerous impacts along the Salt, Verde, and Gila Rivers, including multiple unbridged river crossings being flooded, multiple water rescues, and one recreational fatality. Flow in the Salt River continued downstream into the Gila River, causing more impacts along the way down to Painted Rock Dam. Releases continued through the remainder of the month and into April, resulting in prolonged impacts.",
+        "begin_location": "CASHION",
+        "end_location": "CASHION",
+        "begin_time": "400",
+        "end_time": "2359",
+        "deaths_direct": "0",
+        "deaths_indirect": "0",
+        "injuries_direct": "0",
+        "injuries_indirect": "0",
+        "damage_property": "15000",
+        "damage_crops": "0",
+        "event_id": "1090023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3236,
+          33.3758
+        ]
+      },
+      "properties": {
+        "name": "Flood - AVONDALE",
+        "neighbourhood": "AVONDALE",
+        "date": "03/04/2023",
+        "url": "https://www.google.com/search?q=Flood+AVONDALE+Phoenix+03/04/2023",
+        "source": "NOAA Storm Events Database",
+        "event_type": "Flood",
+        "narrative": "Buckeye Fire Department performed a water rescue at the unbridged Gila River crossing along El Mirage Road between Southern Avenue and Indian Springs Road on the 18th. The exact details surrounding the water rescue are unknown. The road had been closed since the 14th due to the elevated flow in the river. Event timing is based on releases from Granite Reef Dam.",
+        "episode_narrative": "Anomalous snowfall across the high terrain of Arizona as well as lower elevation rainfall led to greater than normal runoff into the Salt and Verde watersheds. As a result of this, dam releases were conducted at multiple locations in these watersheds, leading to heightened flows in these rivers. Upstream releases led to additional releases from Granite Reef Dam, which initially began to cause impacts on the 4th when releases from the dam increased above 1,000 cfs. Granite Reef Dam releases continued to increase going through the month of March and at one point during the month was releasing nearly 40,000 cfs. Releases from this dam led to downstream flow in the normally dry Salt River, which runs through the Phoenix metro. The anomalous runoff into the Salt and Verde watersheds and the resultant dam releases led to numerous impacts along the Salt, Verde, and Gila Rivers, including multiple unbridged river crossings being flooded, multiple water rescues, and one recreational fatality. Flow in the Salt River continued downstream into the Gila River, causing more impacts along the way down to Painted Rock Dam. Releases continued through the remainder of the month and into April, resulting in prolonged impacts.",
+        "begin_location": "AVONDALE",
+        "end_location": "AVONDALE",
+        "begin_time": "400",
+        "end_time": "2359",
+        "deaths_direct": "0",
+        "deaths_indirect": "0",
+        "injuries_direct": "0",
+        "injuries_indirect": "0",
+        "damage_property": "0",
+        "damage_crops": "0",
+        "event_id": "1090025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3444,
+          33.4216
+        ]
+      },
+      "properties": {
+        "name": "Flood - GOODYEAR",
+        "neighbourhood": "GOODYEAR",
+        "date": "03/23/2023",
+        "url": "https://www.google.com/search?q=Flood+GOODYEAR+Phoenix+03/23/2023",
+        "source": "NOAA Storm Events Database",
+        "event_type": "Flood",
+        "narrative": "According to MCDOT, the unbridged Agua Fria River crossing along Lower Buckeye Road between 127th Avenue and 4th Street was closed due to flooding. No damage or injuries were reported.",
+        "episode_narrative": "A storm system moving across the west coast in combination with well above normal moisture levels for mid March standards with values above the 99th percentile resulted in waves of light to moderate rainfall activity across the region. The heaviest rainfall was observed across the areas to the north and east of Phoenix, where multiple inches of rain were observed. Given that the flows along rivers, small streams, creeks, and washes were elevated due to previous precipitation activity from previous storms and with the additional rainfall that fell, the water levels rose above alarm stage, resulting in flooding along low-water crossings.",
+        "begin_location": "GOODYEAR",
+        "end_location": "AVONDALE",
+        "begin_time": "2000",
+        "end_time": "1800",
+        "deaths_direct": "0",
+        "deaths_indirect": "0",
+        "injuries_direct": "0",
+        "injuries_indirect": "0",
+        "damage_property": "0",
+        "damage_crops": "0",
+        "event_id": "1090528"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8568,
+          33.4553
+        ]
+      },
+      "properties": {
+        "name": "Flood - SCOTTSDALE",
+        "neighbourhood": "SCOTTSDALE",
+        "date": "04/01/2023",
+        "url": "https://www.google.com/search?q=Flood+SCOTTSDALE+Phoenix+04/01/2023",
+        "source": "NOAA Storm Events Database",
+        "event_type": "Flood",
+        "narrative": "According to the Maricopa County DOT, McKellips Road between Alma School Road and SR 202 remained closed due to flooding from the Salt River beginning on March 7th and continuing through April. Timing based on water releases from Granite Reef Dam.",
+        "episode_narrative": "Snowmelt runoff from the anomalous amounts of snow over the Arizona high terrain led to continued elevated flows in the Salt and Verde River watersheds. Dam releases being conducted in these watersheds to deal with the abnormal runoff led to continued downstream impacts along the Salt and Gila Rivers, which initially began in March. Continued releases from Granite Reef Dam allowed for elevated flows to persist in the normally dry Salt River with multiple unbridged river crossings remaining closed due to flooding. The heightened flows in the Salt River led to the fatalities of two men who were caught in an undercurrent while paddle boarding down the river. Releases from Granite Reef Dam were significantly reduced by the end of April as runoff into the watersheds decreased. Flow in the Salt and Gila Rivers continued to travel downstream to Painted Rock Dam. Releases from this dam led to elevated flows traveling down the Gila River into Yuma County, leading to numerous additional closures of unbridged river crossings. Elevated flows in the Salt and Gila Rivers allowed for impacts to persist into the month of May.",
+        "begin_location": "SCOTTSDALE",
+        "end_location": "MESA",
+        "begin_time": "0",
+        "end_time": "2359",
+        "deaths_direct": "0",
+        "deaths_indirect": "0",
+        "injuries_direct": "0",
+        "injuries_indirect": "0",
+        "damage_property": "0",
+        "damage_crops": "0",
+        "event_id": "1095857"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2057,
+          33.4069
+        ]
+      },
+      "properties": {
+        "name": "Flood - GOMEZ ARPT",
+        "neighbourhood": "GOMEZ ARPT",
+        "date": "04/01/2023",
+        "url": "https://www.google.com/search?q=Flood+GOMEZ+ARPT+Phoenix+04/01/2023",
+        "source": "NOAA Storm Events Database",
+        "event_type": "Flood",
+        "narrative": "According to MCDOT, the unbridged Salt River crossing along 67th Avenue between Broadway Road and Southern Avenue was closed due to flooding beginning on March 12th and continuing into April. End timing estimated based on upstream FCDMC stream gauge at 51st Avenue.",
+        "episode_narrative": "Snowmelt runoff from the anomalous amounts of snow over the Arizona high terrain led to continued elevated flows in the Salt and Verde River watersheds. Dam releases being conducted in these watersheds to deal with the abnormal runoff led to continued downstream impacts along the Salt and Gila Rivers, which initially began in March. Continued releases from Granite Reef Dam allowed for elevated flows to persist in the normally dry Salt River with multiple unbridged river crossings remaining closed due to flooding. The heightened flows in the Salt River led to the fatalities of two men who were caught in an undercurrent while paddle boarding down the river. Releases from Granite Reef Dam were significantly reduced by the end of April as runoff into the watersheds decreased. Flow in the Salt and Gila Rivers continued to travel downstream to Painted Rock Dam. Releases from this dam led to elevated flows traveling down the Gila River into Yuma County, leading to numerous additional closures of unbridged river crossings. Elevated flows in the Salt and Gila Rivers allowed for impacts to persist into the month of May.",
+        "begin_location": "GOMEZ ARPT",
+        "end_location": "LAVEEN",
+        "begin_time": "0",
+        "end_time": "1330",
+        "deaths_direct": "0",
+        "deaths_indirect": "0",
+        "injuries_direct": "0",
+        "injuries_indirect": "0",
+        "damage_property": "0",
+        "damage_crops": "0",
+        "event_id": "1095858"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.325,
+          33.3847
+        ]
+      },
+      "properties": {
+        "name": "Flood - AVONDALE",
+        "neighbourhood": "AVONDALE",
+        "date": "04/01/2023",
+        "url": "https://www.google.com/search?q=Flood+AVONDALE+Phoenix+04/01/2023",
+        "source": "NOAA Storm Events Database",
+        "event_type": "Flood",
+        "narrative": "According to MCDOT, the unbridged Gila River crossing along El Mirage Road between Southern Avenue and Indian Springs Road was closed due to flooding beginning on March 14th and continuing into April. End timing based on upstream FCDMC stream gauge along the Gila River at 116th Avenue.",
+        "episode_narrative": "Snowmelt runoff from the anomalous amounts of snow over the Arizona high terrain led to continued elevated flows in the Salt and Verde River watersheds. Dam releases being conducted in these watersheds to deal with the abnormal runoff led to continued downstream impacts along the Salt and Gila Rivers, which initially began in March. Continued releases from Granite Reef Dam allowed for elevated flows to persist in the normally dry Salt River with multiple unbridged river crossings remaining closed due to flooding. The heightened flows in the Salt River led to the fatalities of two men who were caught in an undercurrent while paddle boarding down the river. Releases from Granite Reef Dam were significantly reduced by the end of April as runoff into the watersheds decreased. Flow in the Salt and Gila Rivers continued to travel downstream to Painted Rock Dam. Releases from this dam led to elevated flows traveling down the Gila River into Yuma County, leading to numerous additional closures of unbridged river crossings. Elevated flows in the Salt and Gila Rivers allowed for impacts to persist into the month of May.",
+        "begin_location": "AVONDALE",
+        "end_location": "AVONDALE",
+        "begin_time": "0",
+        "end_time": "1200",
+        "deaths_direct": "0",
+        "deaths_indirect": "0",
+        "injuries_direct": "0",
+        "injuries_indirect": "0",
+        "damage_property": "0",
+        "damage_crops": "0",
+        "event_id": "1095860"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1024,
+          33.41
+        ]
+      },
+      "properties": {
+        "name": "Flood - GOMEZ ARPT",
+        "neighbourhood": "GOMEZ ARPT",
+        "date": "04/01/2023",
+        "url": "https://www.google.com/search?q=Flood+GOMEZ+ARPT+Phoenix+04/01/2023",
+        "source": "NOAA Storm Events Database",
+        "event_type": "Flood",
+        "narrative": "Two men paddle boarding down the Salt River were caught in an undercurrent near 19th Avenue and Broadway on the 9th. They became stuck in the undercurrent around 1000MST and began yelling for help before disappearing under the water. The bodies of the two men were recovered about a week later on the 15th and 16th. Flow in the Salt River was unusually high at the time due to continued upstream releases from Granite Reef Dam. Start time based on continued releases from Granite Reef Dam.",
+        "episode_narrative": "Snowmelt runoff from the anomalous amounts of snow over the Arizona high terrain led to continued elevated flows in the Salt and Verde River watersheds. Dam releases being conducted in these watersheds to deal with the abnormal runoff led to continued downstream impacts along the Salt and Gila Rivers, which initially began in March. Continued releases from Granite Reef Dam allowed for elevated flows to persist in the normally dry Salt River with multiple unbridged river crossings remaining closed due to flooding. The heightened flows in the Salt River led to the fatalities of two men who were caught in an undercurrent while paddle boarding down the river. Releases from Granite Reef Dam were significantly reduced by the end of April as runoff into the watersheds decreased. Flow in the Salt and Gila Rivers continued to travel downstream to Painted Rock Dam. Releases from this dam led to elevated flows traveling down the Gila River into Yuma County, leading to numerous additional closures of unbridged river crossings. Elevated flows in the Salt and Gila Rivers allowed for impacts to persist into the month of May.",
+        "begin_location": "GOMEZ ARPT",
+        "end_location": "GOMEZ ARPT",
+        "begin_time": "0",
+        "end_time": "1015",
+        "deaths_direct": "2",
+        "deaths_indirect": "0",
+        "injuries_direct": "0",
+        "injuries_indirect": "0",
+        "damage_property": "0",
+        "damage_crops": "0",
+        "event_id": "1095873"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9734,
+          33.5841
+        ]
+      },
+      "properties": {
+        "name": "Flood - PARADISE VLY",
+        "neighbourhood": "PARADISE VLY",
+        "date": "04/01/2024",
+        "url": "https://www.google.com/search?q=Flood+PARADISE+VLY+Phoenix+04/01/2024",
+        "source": "NOAA Storm Events Database",
+        "event_type": "Flood",
+        "narrative": "The Maricopa County Flood Control District Gauge at Indian Bend Wash near Shea Boulevard reported water levels rising above alarm stage, which is 2 feet, at 3:30 am MST, peaking at around 2.31 feet (1055 cfs) at 6:00 am MST. Water levels dropped below alarm stage by 8:30 am MST. The intersection of North Scottsdale Road and Indian Bend Road was closed due to flooding from the elevated water levels from the wash. No damages or injuries were reported.",
+        "episode_narrative": "An upper-level low pressure system moving across the Desert Southwest resulted in large scale forcing for ascent with highly anomalous moisture in place. This result in an area of moderate to locally heavy rain to develop over the Phoenix metro area with many areas receiving between 0.5-1. The rainfall was enough to cause Indian Bend Wash, located in Scottsdale, to reach action stage and thus cause some flooding along some low water crossings.",
+        "begin_location": "PARADISE VLY",
+        "end_location": "PARADISE VLY",
+        "begin_time": "330",
+        "end_time": "830",
+        "deaths_direct": "0",
+        "deaths_indirect": "0",
+        "injuries_direct": "0",
+        "injuries_indirect": "0",
+        "damage_property": "0",
+        "damage_crops": "0",
+        "event_id": "1176008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9144,
+          33.5321
+        ]
+      },
+      "properties": {
+        "name": "Flood - SCOTTSDALE",
+        "neighbourhood": "SCOTTSDALE",
+        "date": "08/22/2024",
+        "url": "https://www.google.com/search?q=Flood+SCOTTSDALE+Phoenix+08/22/2024",
+        "source": "NOAA Storm Events Database",
+        "event_type": "Flood",
+        "narrative": "The Maricopa County Flood Control District Gauge located along Indian Bend Wash at McDonald Drive in Scottsdale measured water levels rising above the alarm stage level of 2.08 feet at around 7:50 PM MST on the 22nd and staying above that level through the next several hours before falling below alarm stage at around 6:50 AM MST on the 23rd. Therefore, several low-level water crossings intersecting the wash downstream  likely had flooding with the most significant impacts occurring along Roosevelt Street, where there was a video of a vehicle driving into the wash and stalling. No significant damages nor injuries were reported.",
+        "episode_narrative": "Thunderstorm activity developed across much of eastern AZ, along the higher terrain features, during the early afternoon hours. Outflow boundaries emanating from the activity over the higher terrain areas sparked a complex of robust thunderstorms over Pinal County. A northwestward moving outflow boundary that developed from the Pinal County storms produced wind gusts in excess of 50 mph as well as areas of dense blowing dust across the Phoenix East Valley. Additional thunderstorm activity then developed over central Phoenix during the late afternoon, likely instigated by a convergence zone that set up right over the area with little convective inhibition in place and thus it did not take much of a triggering mechanism to get convective initiation. With MLCAPE values of 1000-1500 J/KG along with DCAPE of around 1500 J/KG, conditions were favorable for the generation of strong to severe downburst winds.",
+        "begin_location": "SCOTTSDALE",
+        "end_location": "SCOTTSDALE",
+        "begin_time": "1950",
+        "end_time": "700",
+        "deaths_direct": "0",
+        "deaths_indirect": "0",
+        "injuries_direct": "0",
+        "injuries_indirect": "0",
+        "damage_property": "5000",
+        "damage_crops": "0",
+        "event_id": "1206418"
+      }
+    }
+  ]
+}
