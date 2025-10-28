@@ -1,0 +1,22 @@
+# Data processing files
+data/dem/*.tif
+data/dem/*.vrt
+data/dem/tiles/
+data/dem/tiles_old/
+data/dem/venv/
+data/dem/*.geojson
+data/dem/*.shp
+data/dem/*.shx
+data/dem/*.dbf
+data/dem/*.prj
+data/dem/*.cpg
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# Build artifacts
+.svelte-kit/
+node_modules/
