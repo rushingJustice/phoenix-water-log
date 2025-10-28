@@ -1,6 +1,6 @@
 # Phoenix Water Log
 
-An interactive map visualizing water accumulation and drainage patterns across the Phoenix, AZ metropolitan area. Based on digital elevation models and hydrological analysis.
+An interactive map visualizing water accumulation and drainage patterns across the Phoenix, AZ metropolitan area. Based on digital elevation models and hydrological analysis (D8 method).
 
 ![Phoenix Water Log Screenshot](screenshots/phoenix-water-map.png)
 
