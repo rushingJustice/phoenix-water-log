@@ -202,15 +202,6 @@ npm run build
 
 Output in `dist/` directory - deploy to any static host (Netlify, Vercel, GitHub Pages).
 
-## Notes on Phoenix Hydrology
-
-- Phoenix has flash flood-prone washes and urban drainage systems
-- Desert hydrology differs from monsoon regions (Bangalore):
-  - Less frequent but more intense rainfall
-  - Lower vegetation cover = faster runoff
-  - Urban heat island effects
-- Flow accumulation threshold lowered from 1000 to 500 to capture ephemeral washes
-
 ## Credits
 
 Based on [blr-water-log](https://github.com/diagram-chasing/blr-water-log) by Diagram Chasing
