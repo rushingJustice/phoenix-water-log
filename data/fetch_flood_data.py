@@ -10,9 +10,11 @@ from datetime import datetime, timedelta
 import csv
 from io import StringIO
 
-# API Keys
-NOAA_TOKEN = "EbEhEGLfnCJtbvIpWTyWYZgoywghTwQE"
-USGS_API_KEY = "Ubx2JcufxFavWpxsg5Nu8uYsxiL7KnyYnSDToBfd"
+# API Keys (optional - not required for this script as it uses preprocessed data)
+# NOAA API Token: https://www.ncdc.noaa.gov/cdo-web/token
+# USGS API Key: https://apps.nationalmap.gov/apikeys/
+NOAA_TOKEN = os.environ.get("NOAA_TOKEN", "")
+USGS_API_KEY = os.environ.get("USGS_API_KEY", "")
 
 # Phoenix metro area bounds (matches water accumulation data extent)
 PHOENIX_BOUNDS = {

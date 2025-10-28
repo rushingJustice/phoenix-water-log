@@ -12,7 +12,15 @@ const config = {
       fallback: undefined,
       precompress: false,
       strict: true
-    })
+    }),
+    prerender: {
+      handleHttpError: ({ status, path, referrer, referenceType }) => {
+        if (path === '/favicon.png' || path === '/sharecard.jpg') {
+          return;
+        }
+        throw new Error(`${status} ${path}`);
+      }
+    }
   }
 };
 

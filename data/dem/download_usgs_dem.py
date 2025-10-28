@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Download USGS DEM data for Maricopa County using USGS API
-API Key: Ubx2JcufxFavWpxsg5Nu8uYsxiL7KnyYnSDToBfd
+Note: USGS API key can be obtained from https://apps.nationalmap.gov/apikeys/
 """
 
 import requests
@@ -9,8 +9,8 @@ import json
 import subprocess
 import os
 
-# USGS API Key
-USGS_API_KEY = "Ubx2JcufxFavWpxsg5Nu8uYsxiL7KnyYnSDToBfd"
+# USGS API Key (optional - USGS TNM API doesn't require authentication for public data)
+USGS_API_KEY = os.environ.get("USGS_API_KEY", "")
 
 # Maricopa County bounds
 MARICOPA_BOUNDS = {
